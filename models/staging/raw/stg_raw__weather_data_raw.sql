@@ -9,7 +9,6 @@ source as (
 renamed as (
 
     select
-        'Test' as test,
         timestamp,
         city,
         lat,
